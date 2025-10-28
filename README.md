@@ -49,7 +49,7 @@ flutter run
 💳 Flutterwave Integration
 SafeSpace integrates with Flutterwave’s hosted checkout for secure premium upgrades.
 Test environment uses the Sandbox Mode
-Real payments can be switched on via your Flutterwave dashboard
+Real payments can be switched on via the Flutterwave dashboard
 
 The upgrade process:
 - Tap “Upgrade Now 💳”
