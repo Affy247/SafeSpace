@@ -30,7 +30,7 @@ UI Design	Material 3 & GridView Layout
 Persistence	SharedPreferences + Hive
 🚀 Project Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/safespace.git
+git clone https://github.com/Affy247/safespace.git
 cd safespace
 
 2️⃣ Install dependencies
@@ -49,7 +49,7 @@ flutter run
 💳 Flutterwave Integration
 SafeSpace integrates with Flutterwave’s hosted checkout for secure premium upgrades.
 Test environment uses the Sandbox Mode
-Real payments can be switched on via your Flutterwave dashboard
+Real payments can be switched on via the Flutterwave dashboard
 
 The upgrade process:
 - Tap “Upgrade Now 💳”
