@@ -30,7 +30,7 @@ UI Design	Material 3 & GridView Layout
 Persistence	SharedPreferences + Hive
 🚀 Project Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/safespace.git
+git clone https://github.com/Affy247/safespace.git
 cd safespace
 
 2️⃣ Install dependencies
