@@ -72,3 +72,10 @@ build/
 
 # Pub cache and lock file
 pubspec.lock
+
+# Environment & sensitive files
+.env
+*.env
+assets/.env
+**/.env
+build/**/.env
